@@ -101,6 +101,17 @@ token-billed: `text_input` $4/M, `cached_text_input` $1/M, `image_input` $8/M, `
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [gpt-image-1-api-de](https://github.com/q3-kq/gpt-image-1-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 `gpt-image-1-api-cn` · Español [gpt-image-1-api-es](https://github.com/cpbkfsk6aj/gpt-image-1-api-es) · Français `gpt-image-1-api-fr` · Relay/gateway `gpt-image-1-api-gateway` · Bahasa [gpt-image-1-api-id](https://github.com/lq2tb43/gpt-image-1-api-id) · 日本語 `gpt-image-1-api-ja` · 한국어 `gpt-image-1-api-ko` · Português [gpt-image-1-api-pt](https://github.com/urr6j11xv3e/gpt-image-1-api-pt) · Русский [gpt-image-1-api-ru](https://github.com/qra6o0p/gpt-image-1-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [gpt-image-1](https://github.com/topics/gpt-image-1) · [gpt-image-1-api](https://github.com/topics/gpt-image-1-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
